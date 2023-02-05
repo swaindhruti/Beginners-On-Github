@@ -8,7 +8,7 @@ This repository consists of three files: location.txt, names.txt, and quotes.txt
  - [Awesome Git and Github tutorial.](https://youtu.be/apGV9Kg7ics)
  - [10 tips for onboarding open source contributors.](https://opensource.com/article/19/12/open-source-contributors)
 
-## Appendix
+## Code of Conduct
 While contributing to this repository, you are requested to follow some basic rules as stated below:
 
 ⭐While adding your name to the names.txt file, you are requested to add your name or your account name if you desire not to disclose your real name.
