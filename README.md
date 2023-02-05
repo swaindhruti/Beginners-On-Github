@@ -1,4 +1,4 @@
-# Project Title
+# Beginners-On-Github
 
 This repository consists of three files: location.txt, names.txt, and quotes.txt. As the name suggests, you have to add your location, name, and a favourite quote to these files. This repository is for those who are getting started with open source, git, and github.
 
