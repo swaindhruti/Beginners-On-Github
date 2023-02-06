@@ -2,6 +2,8 @@
 
 This repository consists of three files: location.txt, names.txt, and quotes.txt. As the name suggests, you have to add your location, name, and a favourite quote to these files. This repository is for those who are getting started with open source, git, and github.
 
+You will also find a txt file called "Good First OpenSource Project" that contains links to the reps of other developers to whom you can contribute to kickstart your opensource journey. 
+
 ## Acknowledgements
 
  - [What is Open Source ?](https://opensource.com/resources/what-open-source)
