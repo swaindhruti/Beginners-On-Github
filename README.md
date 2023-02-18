@@ -19,7 +19,7 @@ While contributing to this repository, you are requested to follow some basic ru
 
 ## Good-First-Opensource-Projects
 
-This file contains the links to the opensource projects repos and the sites which you can visit and make your first contribution as a begineer in opensource.
+This part contains the links to the opensource projects repos, hackathons and the sites which you can visit and make your first contribution as a begineer in opensource.
 
 ## Links to the repos and sites
 
@@ -28,3 +28,6 @@ This file contains the links to the opensource projects repos and the sites whic
 - [hkirat/gsoc-good-first-issues](https://github.com/hkirat/gsoc-good-first-issues)
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 - [Hacktoberfest](https://hacktoberfest.com/)
+- [Devpost Hackathons](https://devpost.com/hackathons)
+- [WeMakeDevs](https://devpost.com/hackathons)
+- [Microsoft Hack-Together](https://github.com/microsoft/hack-together)
