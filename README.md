@@ -5,7 +5,7 @@ This repository consists of three files: location.txt, names.txt, and quotes.txt
 ## Acknowledgements
 
  - [What is Open Source ?](https://opensource.com/resources/what-open-source)
- - [Awesome Git and Github tutorial.](https://youtu.be/apGV9Kg7ics)
+ - [Awesome Git and Github tutorial.](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
  - [10 tips for onboarding open source contributors.](https://opensource.com/article/19/12/open-source-contributors)
 
 ## Code of Conduct
