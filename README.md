@@ -31,3 +31,4 @@ This part contains the links to the opensource projects repos, hackathons and th
 - [Devpost Hackathons](https://devpost.com/hackathons)
 - [WeMakeDevs](https://devpost.com/hackathons)
 - [Microsoft Hack-Together](https://github.com/microsoft/hack-together)
+- [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue)
