@@ -17,18 +17,33 @@ While contributing to this repository, you are requested to follow some basic ru
 
 ⭐While adding quotes to quotes.txt, you are requested not to add quotes that have hatred toward any other religion, caste, creed, sex, or community.
 
+## Setting Up the repo on local system :
+
+Open the terminal or git bash acccording to your preference then use the following commands according to the order provided below :
+
+```shell
+mkdir '.\GITHUB PROJECTS\'
+cd '.\GITHUB PROJECTS\'
+git clone https://github.com/coder-XX04/Beginners-On-Github
+cd Beginners-On-Github
+code .
+```
+
 ## Good-First-Opensource-Projects
 
 This part contains the links to the opensource projects repos, hackathons and the sites which you can visit and make your first contribution as a begineer in opensource.
 
 ## Links to the repos and sites
-
-- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-- [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)
-- [hkirat/gsoc-good-first-issues](https://github.com/hkirat/gsoc-good-first-issues)
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+--------------------------------
+### Hackathons :
 - [Hacktoberfest](https://hacktoberfest.com/)
 - [Devpost Hackathons](https://devpost.com/hackathons)
-- [WeMakeDevs](https://devpost.com/hackathons)
 - [Microsoft Hack-Together](https://github.com/microsoft/hack-together)
+- [WeMakeDevs](https://devpost.com/hackathons)
+### Open-Source projects :
+- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+- [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)
+### Good First Issues : 
+- [hkirat/gsoc-good-first-issues](https://github.com/hkirat/gsoc-good-first-issues)
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 - [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue)
