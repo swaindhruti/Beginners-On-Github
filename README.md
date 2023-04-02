@@ -29,6 +29,13 @@ cd Beginners-On-Github
 code .
 ```
 
+After doing all the necessary changes to the files in the repo use the following commands to push the changes to the remote repo :
+
+```shell
+git add -A
+git commit -m "type your message"
+git push origin main
+```
 ## Good-First-Opensource-Projects
 
 This part contains the links to the opensource projects repos, hackathons and the sites which you can visit and make your first contribution as a begineer in opensource.
