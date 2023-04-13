@@ -41,7 +41,6 @@ git push origin main
 This part contains the links to the opensource projects repos, hackathons and the sites which you can visit and make your first contribution as a begineer in opensource.
 
 ## Links to the repos and sites
---------------------------------
 ### Hackathons :
 - [Hacktoberfest](https://hacktoberfest.com/)
 - [Devpost Hackathons](https://devpost.com/hackathons)
