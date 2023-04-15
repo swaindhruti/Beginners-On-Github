@@ -17,7 +17,7 @@ While contributing to this repository, you are requested to follow some basic ru
 
 ⭐While adding quotes to quotes.txt, you are requested not to add quotes that have hatred toward any other religion, caste, creed, sex, or community.
 
-## Setting Up the repo on local system :
+## Setting Up the repo on the local system :
 
 Open the terminal or git bash acccording to your preference then use the following commands according to the order provided below :
 
