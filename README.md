@@ -43,6 +43,7 @@ This part contains the links to the opensource projects repos, hackathons and th
 ## Links to the repos and sites
 ### Hackathons :
 - [Hacktoberfest](https://hacktoberfest.com/)
+- [HackOdisha](https://www.hackodisha.tech/)
 - [Devpost Hackathons](https://devpost.com/hackathons)
 - [Microsoft Hack-Together](https://github.com/microsoft/hack-together)
 - [WeMakeDevs](https://devpost.com/hackathons)
