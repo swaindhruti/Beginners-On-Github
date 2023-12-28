@@ -50,6 +50,7 @@ This part contains the links to the opensource projects repos, hackathons and th
 ### Open-Source projects :
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 - [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)
+- [Open-Research-Society/GoDoList](https://github.com/Open-Research-Society/GoDoList)
 ### Good First Issues : 
 - [hkirat/gsoc-good-first-issues](https://github.com/hkirat/gsoc-good-first-issues)
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
