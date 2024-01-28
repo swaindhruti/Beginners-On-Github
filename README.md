@@ -10,8 +10,6 @@ When contributing to this repository, please follow these basic rules:
 
 ⭐ **names.txt:** Add your name or any random name if you prefer not to disclose your real name.
 
-⭐ **location.txt:** Include the country you belong to when adding your location.
-
 ⭐ **quotes.txt:** Share quotes that promote positivity and avoid any content that promotes hatred.
 
 ## Acknowledgements
@@ -23,8 +21,6 @@ When contributing to this repository, please follow these basic rules:
 ## Code of Conduct
 
 ⭐While adding your name to the names.txt file, you are requested to add your name or any random name if you desire not to disclose your real name.
-
-⭐While adding your location to the location.txt file, you are asked to add the country you belong to.
 
 ⭐While adding quotes to quotes.txt, you are requested not to add quotes that have hatred toward any other religion, caste, creed, gender or community.
 
