@@ -24,9 +24,8 @@ Open the terminal or git bash acccording to your preference then use the followi
 ```shell
 mkdir '.\GITHUB PROJECTS\'
 cd '.\GITHUB PROJECTS\'
-git clone https://github.com/coder-XX04/Beginners-On-Github
+git clone https://github.com/swaindhruti/Beginners-On-Github
 cd Beginners-On-Github
-code .
 ```
 
 After doing all the necessary changes to the files in the repo use the following commands to push the changes to the remote repo :
