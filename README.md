@@ -19,11 +19,11 @@ While contributing to this repository, you are requested to follow some basic ru
 
 ## Setting Up the repo on the local system :
 
-Open the terminal or git bash acccording to your preference then use the following commands according to the order provided below :
+Open the terminal or git bash according to your preference, then use the following commands according to the order provided below :
 
 ```shell
-mkdir '.\GITHUB PROJECTS\'
-cd '.\GITHUB PROJECTS\'
+mkdir '.\GITHUB-PROJECTS\'
+cd '.\GITHUB-PROJECTS\'
 git clone https://github.com/swaindhruti/Beginners-On-Github
 cd Beginners-On-Github
 ```
@@ -32,12 +32,12 @@ After doing all the necessary changes to the files in the repo use the following
 
 ```shell
 git add -A
-git commit -m "type your message"
+git commit -m "enter your commit message"
 git push origin main
 ```
 ## Good-First-Opensource-Projects
 
-This part contains the links to the opensource projects repos, hackathons and the sites which you can visit and make your first contribution as a begineer in opensource.
+This part contains the links to the opensource projects repos, hackathons and the sites which you can visit and make your first contribution as a beginner in opensource.
 
 ## Links to the repos and sites
 ### Hackathons :
